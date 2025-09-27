@@ -1,4 +1,4 @@
-"use client";
+'use client';
 import { Button } from "@/components/ui/button";
 import { useGlobalContext } from "@/context/globalContext";
 import { play } from "@/utils/Icons";
